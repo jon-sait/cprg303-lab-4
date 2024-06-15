@@ -1,0 +1,8 @@
+{
+  "expo": {
+    "name": "incredible-todo-list-app",
+    "slug": "incredible-todo-list-app",
+    "version": "1.0.0",
+    "platforms": ["ios", "android", "web"]
+  }
+}
