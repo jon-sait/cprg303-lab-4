@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { View, TextInput, Button } from "react-native";
 
-import { styles } from "./App";
+import styles from "../styles";
 
 function ToDoForm({ addTask }) {
   const [taskText, setTaskText] = useState("");

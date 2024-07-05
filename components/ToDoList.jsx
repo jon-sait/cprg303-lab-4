@@ -1,6 +1,6 @@
 import { Pressable, View, Text, ScrollView } from "react-native";
 
-import { styles } from "./App";
+import styles from "../styles";
 
 function ToDoList({ tasks }) {
   return (
